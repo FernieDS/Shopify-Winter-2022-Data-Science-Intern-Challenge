@@ -1,3 +1,10 @@
+---
+title: "Shopify Winter 2022 Data Science Intern Challenge"
+author: "Fernando Crupi"
+date: "15/9/2021"
+output: html_document
+---
+
 ### Question 1
 Given some sample data, write a program to answer the following: [click here to access the required data set](https://docs.google.com/spreadsheets/d/16i38oonuX1y1g7C_UAmiK9GkY7cS-64DfiDMNiR41LM/edit#gid=0)
 
